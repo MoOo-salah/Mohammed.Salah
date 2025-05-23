@@ -207,9 +207,6 @@ background-attachment: fixed;
         padding-left: 15px;
         font-size: 0.55em;
     }
-    .footer-title{
-        font-size: 0.65em;
-    }
 
     .title {
         font-size: 1.8em;
@@ -237,6 +234,10 @@ background-attachment: fixed;
     }
     .main-content h3{
         font-size: 1.4em;
+    }
+    .footer-title{
+        font-size: 0.65em;
+        font-weight: 400;
     }
 }
 @media (max-width:300px){
