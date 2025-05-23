@@ -228,6 +228,9 @@ background-attachment: fixed;
     body{
         font-size: 12px;
     }
+    .footer-title{
+        font-size: 0.65em;
+    }
     .main-content h2 {
         font-size: 0.8em;
     }
