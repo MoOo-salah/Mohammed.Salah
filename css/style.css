@@ -235,13 +235,14 @@ background-attachment: fixed;
     .main-content h3{
         font-size: 1.4em;
     }
-    .footer-title{
-        font-size: 0.65em;
-        font-weight: 400;
-    }
+
 }
 @media (max-width:300px){
     body{
         font-size: 10px;
+    }
+    .footer-title{
+        font-size: 0.65em;
+        font-weight: 400;
     }
 }
