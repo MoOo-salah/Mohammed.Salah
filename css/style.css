@@ -224,6 +224,10 @@ background-attachment: fixed;
         flex-direction: column;
         align-items: center;
     }
+    .footer{
+        font-size: 0.65em;
+        font-weight: 400;
+    }
 }
 @media (max-width:641px){
     body{
@@ -240,9 +244,5 @@ background-attachment: fixed;
 @media (max-width:300px){
     body{
         font-size: 10px;
-    }
-    .footer-title{
-        font-size: 0.65em;
-        font-weight: 400;
     }
 }
